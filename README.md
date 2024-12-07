@@ -46,7 +46,7 @@
 - **merge:** 🔀 `:twisted_rightwards_arrows:` Indicação de um merge no código.  
   **Exemplo:** `merge: :twisted_rightwards_arrows: integrar branch feature/login`
 
-## CUSTOMIZAÇÃO https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+## CUSTOMIZAÇÃO <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
 
 - **deploy:** 🚀 `:rocket:` Indica um commit usado para deploy.  
   **Exemplo:** `deploy: :rocket: versão 1.0.0 enviada ao ambiente de produção`
