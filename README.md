@@ -1,6 +1,6 @@
 # PADRÃO DE COMMITS
 
-feat: Adição de uma nova funcionalidade.
+### feat: Adição de uma nova funcionalidade.
 Exemplo: feat: adicionar página de login
 
 fix: Correção de um bug.
