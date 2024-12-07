@@ -54,7 +54,7 @@
 - **security:** 🛡️ `:shield:` Ajustes ou melhorias relacionadas à segurança.  
   **Exemplo:** `security: :shield: corrigir vulnerabilidade XSS`
 
-## LARAVEL ESPECÍFICO <img src="https://img.shields.io/badge/logo-laravel-blue?logo=laravel"/>
+## LARAVEL ESPECÍFICO <img src="https://img.shields.io/badge/laravel-blue?logo=laravel"/>
 
 - **migrations:** 🗂️ `:card_file_box:` Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
   **Exemplo:** `migrations: :card_file_box: criação das migrations aluno, professor, curso e matrícula`
