@@ -58,16 +58,16 @@ Aqui estão os prefixos de commit com os respectivos códigos dos emojis para fa
 
 ## LARAVEL ESPECÍFICO
 
-- **migrations:** 🗂️ `:card_file_box:` ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
-  **Exemplo:** `migrations: :card_file_box: ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") criação das migrations aluno, professor, curso e matrícula`
+- **migrations:** 🗂️ `:card_file_box:` Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
+  **Exemplo:** `migrations: :card_file_box: criação das migrations aluno, professor, curso e matrícula`
 
-- **models:** 🏗️ `:building_construction:` ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") Indica que foram criadas, alteradas ou excluídas classes de modelos que interagem com o banco de dados.  
-  **Exemplo:** `models: :building_construction: ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") criação dos models aluno, professor, curso e matrícula`
+- **models:** 🏗️ `:building_construction:` Indica que foram criadas, alteradas ou excluídas classes de modelos que interagem com o banco de dados.  
+  **Exemplo:** `models: :building_construction: criação dos models aluno, professor, curso e matrícula`
 
-- **controllers:** 🎛️ `:control_knobs:` ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") Indica que foram criados, alterados ou excluídos controllers.  
-  **Exemplo:** `controllers: :control_knobs: ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") criação dos controllers aluno, professor, curso e matrícula`
+- **controllers:** 🎛️ `:control_knobs:` Indica que foram criados, alterados ou excluídos controllers.  
+  **Exemplo:** `controllers: :control_knobs: criação dos controllers aluno, professor, curso e matrícula`
 
 ## GERAL (COM PHP)
 
-- **php:** 🐘 `:elephant:` ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg "PHP Logo") Indica alterações específicas do backend relacionadas ao PHP.  
-  **Exemplo:** `php: :elephant: ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg "PHP Logo") corrigir lógica de validação de formulários`
+- **php:** 🐘 `:elephant:` Indica alterações específicas do backend relacionadas ao PHP.  
+  **Exemplo:** `php: :elephant:  corrigir lógica de validação de formulários`
