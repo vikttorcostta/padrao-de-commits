@@ -65,7 +65,7 @@
 - **controllers:** 🎛️ `:control_knobs:` Indica que foram criados, alterados ou excluídos controllers.  
   **Exemplo:** `controllers: :control_knobs: criação dos controllers aluno, professor, curso e matrícula`
 
-## GERAL (COM PHP) <img src="https://img.shields.io/badge/logo-php-blue?logo=php"/>
+## GERAL (COM PHP) <img src="https://img.shields.io/badge/fd-php-blue?logo=php"/>
 
 - **php:** 🐘 `:elephant:` Indica alterações específicas do backend relacionadas ao PHP.  
   **Exemplo:** `php: :elephant:  corrigir lógica de validação de formulários`
