@@ -22,3 +22,26 @@ Exemplo: refactor: simplificar lógica de autenticação
 
 **chore:** Tarefas auxiliares, como atualização de dependências.</br>
 **Exemplo: chore:** atualizar versão do Node.js
+
+## OPCIONAIS
+
+**perf:** Melhoria de performance.</br>
+Exemplo: perf: otimizar tempo de resposta da API
+
+**build:** Alterações no sistema de build ou dependências externas.</br>
+**Exemplo: build:** atualizar configurações do Webpack
+
+**ci:** Alterações no pipeline de integração contínua.</br>
+**Exemplo: ci:** corrigir script de deploy no GitHub Actions
+
+**revert:** Reversão de um commit anterior.</br>
+Exemplo: revert: remover alterações do commit 123abc
+
+**hotfix:** Correção urgente de um problema crítico.</br>
+**Exemplo: hotfix:** corrigir erro crítico no login
+
+**init:** Commit inicial de um projeto.</br>
+**Exemplo: init:** projeto criado com Angular
+
+**merge:** Indicação de um merge no código.</br>
+**Exemplo: merge:** integrar branch feature/login
