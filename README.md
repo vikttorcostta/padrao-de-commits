@@ -54,7 +54,7 @@
 - **security:** 🛡️ `:shield:` Ajustes ou melhorias relacionadas à segurança.  
   **Exemplo:** `security: :shield: corrigir vulnerabilidade XSS`
 
-## LARAVEL ESPECÍFICO <img src="https://img.shields.io/badge/logo-laravel-blue?logo=11.0"/>
+## LARAVEL ESPECÍFICO <img src="https://img.shields.io/badge/logo-laravel-blue?logo=laravel"/>
 
 - **migrations:** 🗂️ `:card_file_box:` Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
   **Exemplo:** `migrations: :card_file_box: criação das migrations aluno, professor, curso e matrícula`
@@ -65,7 +65,7 @@
 - **controllers:** 🎛️ `:control_knobs:` Indica que foram criados, alterados ou excluídos controllers.  
   **Exemplo:** `controllers: :control_knobs: criação dos controllers aluno, professor, curso e matrícula`
 
-## GERAL (COM PHP) <img src="https://img.shields.io/badge/logo-php-blue?logo=8.3"/>
+## GERAL (COM PHP) <img src="https://img.shields.io/badge/logo-php-blue?logo=php"/>
 
 - **php:** 🐘 `:elephant:` Indica alterações específicas do backend relacionadas ao PHP.  
   **Exemplo:** `php: :elephant:  corrigir lógica de validação de formulários`
