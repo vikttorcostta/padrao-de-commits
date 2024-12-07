@@ -56,7 +56,7 @@ Aqui estão os prefixos de commit com os respectivos códigos dos emojis para fa
 - **security:** 🛡️ `:shield:` Ajustes ou melhorias relacionadas à segurança.  
   **Exemplo:** `security: :shield: corrigir vulnerabilidade XSS`
 
-## LARAVEL ESPECÍFICO
+## LARAVEL ESPECÍFICO <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 - **migrations:** 🗂️ `:card_file_box:` Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
   **Exemplo:** `migrations: :card_file_box: criação das migrations aluno, professor, curso e matrícula`
