@@ -46,7 +46,7 @@
 - **merge:** 🔀 `:twisted_rightwards_arrows:` Indicação de um merge no código.  
   **Exemplo:** `merge: :twisted_rightwards_arrows: integrar branch feature/login`
 
-## CUSTOMIZAÇÃO <img src="https://img.shields.io/badge/logo-php-blue?logo=php"/>
+## CUSTOMIZAÇÃO
 
 - **deploy:** 🚀 `:rocket:` Indica um commit usado para deploy.  
   **Exemplo:** `deploy: :rocket: versão 1.0.0 enviada ao ambiente de produção`
@@ -54,7 +54,7 @@
 - **security:** 🛡️ `:shield:` Ajustes ou melhorias relacionadas à segurança.  
   **Exemplo:** `security: :shield: corrigir vulnerabilidade XSS`
 
-## LARAVEL ESPECÍFICO <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+## LARAVEL ESPECÍFICO <img src="https://img.shields.io/badge/logo-laravel-blue?logo=laravel"/>
 
 - **migrations:** 🗂️ `:card_file_box:` Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
   **Exemplo:** `migrations: :card_file_box: criação das migrations aluno, professor, curso e matrícula`
@@ -65,7 +65,7 @@
 - **controllers:** 🎛️ `:control_knobs:` Indica que foram criados, alterados ou excluídos controllers.  
   **Exemplo:** `controllers: :control_knobs: criação dos controllers aluno, professor, curso e matrícula`
 
-## GERAL (COM PHP) <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+## GERAL (COM PHP) <img src="https://img.shields.io/badge/logo-php-blue?logo=php"/>>
 
 - **php:** 🐘 `:elephant:` Indica alterações específicas do backend relacionadas ao PHP.  
   **Exemplo:** `php: :elephant:  corrigir lógica de validação de formulários`
