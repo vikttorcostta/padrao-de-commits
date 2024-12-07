@@ -1,6 +1,4 @@
-# PADRÃO DE COMMITS COM CÓDIGOS DE EMOJIS
-
-Aqui estão os prefixos de commit com os respectivos códigos dos emojis para facilitar a digitação:
+# PADRÃO DE COMMITS COM CÓDIGOS DE EMOJIS 
 
 ## BÁSICOS
 
@@ -48,7 +46,7 @@ Aqui estão os prefixos de commit com os respectivos códigos dos emojis para fa
 - **merge:** 🔀 `:twisted_rightwards_arrows:` Indicação de um merge no código.  
   **Exemplo:** `merge: :twisted_rightwards_arrows: integrar branch feature/login`
 
-## CUSTOMIZAÇÃO
+## CUSTOMIZAÇÃO https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
 - **deploy:** 🚀 `:rocket:` Indica um commit usado para deploy.  
   **Exemplo:** `deploy: :rocket: versão 1.0.0 enviada ao ambiente de produção`
