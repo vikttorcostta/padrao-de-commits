@@ -68,6 +68,7 @@ Aqui estão os prefixos de commit com os respectivos códigos dos emojis para fa
   **Exemplo:** `controllers: :control_knobs: criação dos controllers aluno, professor, curso e matrícula`
 
 ## GERAL (COM PHP)
+## <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
 - **php:** 🐘 `:elephant:` Indica alterações específicas do backend relacionadas ao PHP.  
   **Exemplo:** `php: :elephant:  corrigir lógica de validação de formulários`
