@@ -45,3 +45,13 @@ Exemplo: revert: remover alterações do commit 123abc
 
 **merge:** Indicação de um merge no código.</br>
 **Exemplo: merge:** integrar branch feature/login
+
+## CUSTOMIZAÇÃO
+
+Você pode criar prefixos personalizados para atender ao fluxo do seu time ou projeto. Exemplos:</br>
+
+**deploy:** Indica um commit usado para deploy.</br>
+**Exemplo: deploy:** versão 1.0.0 enviada ao ambiente de produção
+
+**security:** Ajustes ou melhorias relacionadas à segurança.</br>
+**Exemplo: security:** corrigir vulnerabilidade XSS
