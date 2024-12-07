@@ -1,68 +1,73 @@
-# PADRÃO DE COMMITS COM EMOJIS
+# PADRÃO DE COMMITS COM CÓDIGOS DE EMOJIS
+
+Aqui estão os prefixos de commit com os respectivos códigos dos emojis para facilitar a digitação:
 
 ## BÁSICOS
 
-- **feat:** ✨ Adição de uma nova funcionalidade.  
-  **Exemplo:** `feat: adicionar página de login`
+- **feat:** ✨ `:sparkles:` Adição de uma nova funcionalidade.  
+  **Exemplo:** `feat: :sparkles: adicionar página de login`
 
-- **fix:** 🐛 Correção de um bug.  
-  **Exemplo:** `fix: corrigir erro no carregamento da página inicial`
+- **fix:** 🐛 `:bug:` Correção de um bug.  
+  **Exemplo:** `fix: :bug: corrigir erro no carregamento da página inicial`
 
-- **docs:** 📝 Alterações na documentação.  
-  **Exemplo:** `docs: atualizar guia de instalação`
+- **docs:** 📝 `:memo:` Alterações na documentação.  
+  **Exemplo:** `docs: :memo: atualizar guia de instalação`
 
-- **style:** 🎨 Alterações de estilo (espaços, formatação, etc.) que não afetam o código.  
-  **Exemplo:** `style: ajustar indentação no arquivo principal`
+- **style:** 🎨 `:art:` Alterações de estilo (espaços, formatação, etc.) que não afetam o código.  
+  **Exemplo:** `style: :art: ajustar indentação no arquivo principal`
 
-- **refactor:** ♻️ Refatoração do código sem alterar a funcionalidade.  
-  **Exemplo:** `refactor: simplificar lógica de autenticação`
+- **refactor:** ♻️ `:recycle:` Refatoração do código sem alterar a funcionalidade.  
+  **Exemplo:** `refactor: :recycle: simplificar lógica de autenticação`
 
-- **test:** ✅ Adição ou modificação de testes.  
-  **Exemplo:** `test: adicionar testes unitários para o componente x`
+- **test:** ✅ `:white_check_mark:` Adição ou modificação de testes.  
+  **Exemplo:** `test: :white_check_mark: adicionar testes unitários para o componente x`
 
-- **chore:** 🔧 Tarefas auxiliares, como atualização de dependências.  
-  **Exemplo:** `chore: atualizar versão do Node.js`
+- **chore:** 🔧 `:wrench:` Tarefas auxiliares, como atualização de dependências.  
+  **Exemplo:** `chore: :wrench: atualizar versão do Node.js`
 
 ## OPCIONAIS
 
-- **perf:** ⚡ Melhoria de performance.  
-  **Exemplo:** `perf: otimizar tempo de resposta da API`
+- **perf:** ⚡ `:zap:` Melhoria de performance.  
+  **Exemplo:** `perf: :zap: otimizar tempo de resposta da API`
 
-- **build:** 🛠️ Alterações no sistema de build ou dependências externas.  
-  **Exemplo:** `build: atualizar configurações do Webpack`
+- **build:** 🛠️ `:hammer_and_wrench:` Alterações no sistema de build ou dependências externas.  
+  **Exemplo:** `build: :hammer_and_wrench: atualizar configurações do Webpack`
 
-- **ci:** 👷 Alterações no pipeline de integração contínua.  
-  **Exemplo:** `ci: corrigir script de deploy no GitHub Actions`
+- **ci:** 👷 `:construction_worker:` Alterações no pipeline de integração contínua.  
+  **Exemplo:** `ci: :construction_worker: corrigir script de deploy no GitHub Actions`
 
-- **revert:** ⏪ Reversão de um commit anterior.  
-  **Exemplo:** `revert: remover alterações do commit 123abc`
+- **revert:** ⏪ `:rewind:` Reversão de um commit anterior.  
+  **Exemplo:** `revert: :rewind: remover alterações do commit 123abc`
 
-- **hotfix:** 🚑 Correção urgente de um problema crítico.  
-  **Exemplo:** `hotfix: corrigir erro crítico no login`
+- **hotfix:** 🚑 `:ambulance:` Correção urgente de um problema crítico.  
+  **Exemplo:** `hotfix: :ambulance: corrigir erro crítico no login`
 
-- **init:** 🎉 Commit inicial de um projeto.  
-  **Exemplo:** `init: projeto criado com Angular`
+- **init:** 🎉 `:tada:` Commit inicial de um projeto.  
+  **Exemplo:** `init: :tada: projeto criado com Angular`
 
-- **merge:** 🔀 Indicação de um merge no código.  
-  **Exemplo:** `merge: integrar branch feature/login`
+- **merge:** 🔀 `:twisted_rightwards_arrows:` Indicação de um merge no código.  
+  **Exemplo:** `merge: :twisted_rightwards_arrows: integrar branch feature/login`
 
 ## CUSTOMIZAÇÃO
 
-- **deploy:** 🚀 Indica um commit usado para deploy.  
-  **Exemplo:** `deploy: versão 1.0.0 enviada ao ambiente de produção`
+- **deploy:** 🚀 `:rocket:` Indica um commit usado para deploy.  
+  **Exemplo:** `deploy: :rocket: versão 1.0.0 enviada ao ambiente de produção`
 
-- **security:** 🛡️ Ajustes ou melhorias relacionadas à segurança.  
-  **Exemplo:** `security: corrigir vulnerabilidade XSS`
+- **security:** 🛡️ `:shield:` Ajustes ou melhorias relacionadas à segurança.  
+  **Exemplo:** `security: :shield: corrigir vulnerabilidade XSS`
 
-## LARAVEL
+## LARAVEL ESPECÍFICO
 
-- **migrations:** 🗂️ Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
-  **Exemplo:** `migrations: criação das migrations aluno, professor, curso e matrícula`
+- **migrations:** 🗂️ `:card_file_box:` ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") Indica que foram criadas, alteradas ou excluídas migrações de banco de dados no Laravel.  
+  **Exemplo:** `migrations: :card_file_box: ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") criação das migrations aluno, professor, curso e matrícula`
 
-- **models:** 🏗️ Indica que foram criadas, alteradas ou excluídas classes de modelos que interagem com o banco de dados.  
-  **Exemplo:** `models: criação dos models aluno, professor, curso e matrícula`
+- **models:** 🏗️ `:building_construction:` ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") Indica que foram criadas, alteradas ou excluídas classes de modelos que interagem com o banco de dados.  
+  **Exemplo:** `models: :building_construction: ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") criação dos models aluno, professor, curso e matrícula`
 
-- **controllers:** 🎛️ Indica que foram criados, alterados ou excluídos controllers.  
-  **Exemplo:** `controllers: criação dos controllers aluno, professor, curso e matrícula`
+- **controllers:** 🎛️ `:control_knobs:` ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") Indica que foram criados, alterados ou excluídos controllers.  
+  **Exemplo:** `controllers: :control_knobs: ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg "Laravel Logo") criação dos controllers aluno, professor, curso e matrícula`
 
-Esses emojis tornam o histórico de commits mais visual e fácil de identificar rapidamente. 🎯
+## GERAL (COM PHP)
+
+- **php:** 🐘 `:elephant:` ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg "PHP Logo") Indica alterações específicas do backend relacionadas ao PHP.  
+  **Exemplo:** `php: :elephant: ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg "PHP Logo") corrigir lógica de validação de formulários`
