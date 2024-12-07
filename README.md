@@ -17,7 +17,7 @@ Exemplo: style: ajustar indentação no arquivo principal
 **refactor:** Refatoração do código sem alterar a funcionalidade.
 Exemplo: refactor: simplificar lógica de autenticação
 
-**test:** Adição ou modificação de testes.
+**test:** Adição ou modificação de testes.</br>
 **Exemplo: test:** adicionar testes unitários para o componente x
 
 **chore:** Tarefas auxiliares, como atualização de dependências.
