@@ -67,8 +67,6 @@
 
 ## GERAL (COM PHP) <img src="https://img.shields.io/badge/8.3-php-blue?logo=php"/>
 
-Aqui está uma sugestão de complementação para o padrão de commits em PHP:
-
 **GERAL (COM PHP)**  
 - **php: 🐘 :elephant:** Indica alterações específicas do backend relacionadas ao PHP.  
   Exemplo: `php: 🐘 corrigir lógica de validação de formulários`
