@@ -67,5 +67,27 @@
 
 ## GERAL (COM PHP) <img src="https://img.shields.io/badge/8.3-php-blue?logo=php"/>
 
-- **php:** 🐘 `:elephant:` Indica alterações específicas do backend relacionadas ao PHP.  
-  **Exemplo:** `php: :elephant:  corrigir lógica de validação de formulários`
+Aqui está uma sugestão de complementação para o padrão de commits em PHP:
+
+**GERAL (COM PHP)**  
+- **php: 🐘 :elephant:** Indica alterações específicas do backend relacionadas ao PHP.  
+  Exemplo: `php: 🐘 corrigir lógica de validação de formulários`
+  
+**Padrões adicionais:**
+- **php: 🐘 :bug:** Correção de bugs no código PHP.  
+  Exemplo: `php: 🐘 :bug: corrigir erro de conexão com o banco de dados`
+
+- **php: 🐘 :sparkles:** Adição de novas funcionalidades ou melhorias significativas no código PHP.  
+  Exemplo: `php: 🐘 :sparkles: implementar funcionalidade de upload de arquivos`
+
+- **php: 🐘 :memo:** Alterações em arquivos de configuração ou documentação de código PHP.  
+  Exemplo: `php: 🐘 :memo: atualizar documentação sobre rotas no backend`
+
+- **php: 🐘 :fire:** Remoção de código ou arquivos não utilizados no projeto PHP.  
+  Exemplo: `php: 🐘 :fire: remover funções antigas de manipulação de dados`
+
+- **php: 🐘 :art:** Melhoria na organização ou legibilidade do código PHP.  
+  Exemplo: `php: 🐘 :art: refatorar código de controle de fluxo`
+
+- **php: 🐘 :lock:** Alterações relacionadas a segurança no PHP, como criptografia ou validações.  
+  Exemplo: `php: 🐘 :lock: implementar autenticação via JWT`
